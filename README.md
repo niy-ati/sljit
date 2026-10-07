@@ -30,4 +30,4 @@ Vendors sljit at [zherczeg/sljit@39c508d](https://github.com/zherczeg/sljit/comm
 
 See `examples/add` for a minimal JIT-compiled `add(int, int) -> int` built and called from D.
 
-Part of [SAOC 2026](https://symmetryinvestments.com/saoc), ImportC: Zero-Wrapper Integration for Real-World C Libraries.
+Part of [SAOC 2026](https://gist.github.com/niy-ati/9d2c587a818711f3fc2f59e962d50ebc), ImportC: Zero-Wrapper Integration for Real-World C Libraries.
